@@ -10,7 +10,7 @@ namespace Blog.Controllers
     {
         //
         // GET: /Home/
-
+        [OutputCache(Duration=3600)]
         public ActionResult Index()
         {
             return View();

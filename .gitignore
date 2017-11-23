@@ -2,3 +2,6 @@
 *.pdb
 packages
 debug
+release
+obj
+PublishProfiles

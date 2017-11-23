@@ -239,6 +239,7 @@
     <Content Include="asset\script\ScrollToPlugin.min.js" />
     <Content Include="asset\script\trianglify.min.js" />
     <Content Include="asset\script\TweenMax.min.js" />
+    <None Include="Properties\PublishProfiles\webdeploy.pubxml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
